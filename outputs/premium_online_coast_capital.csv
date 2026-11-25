@@ -1,1 +1,61 @@
 order_id,order_date,branch,channel,product,category,quantity,unit_price,revenue,month,weekday,is_weekend,price_band
+ORD0038,2026-02-20,Mombasa,Online,Product_3,Accessories,3,34999,104997,2026-02,Friday,False,Premium
+ORD0048,2026-01-03,Mombasa,Online,Product_21,Phones,3,79999,239997,2026-01,Saturday,True,Premium
+ORD0072,2026-06-21,Nairobi CBD,Online,Product_9,Laptops,4,34999,139996,2026-06,Sunday,True,Premium
+ORD0082,2026-05-06,Mombasa,Online,Product_10,Accessories,4,34999,139996,2026-05,Wednesday,False,Premium
+ORD0088,2026-05-07,Nairobi CBD,Online,Product_22,Phones,5,49999,249995,2026-05,Thursday,False,Premium
+ORD0098,2026-05-13,Mombasa,Online,Product_6,Tablets,4,28999,115996,2026-05,Wednesday,False,Premium
+ORD0103,2026-01-07,Nairobi CBD,Online,Product_29,Phones,3,79999,239997,2026-01,Wednesday,False,Premium
+ORD0127,2026-02-24,Mombasa,Online,Product_1,Laptops,2,79999,159998,2026-02,Tuesday,False,Premium
+ORD0132,2026-06-29,Mombasa,Online,Product_19,Laptops,2,34999,69998,2026-06,Monday,False,Premium
+ORD0133,2026-03-05,Nairobi CBD,Online,Product_2,Phones,4,79999,319996,2026-03,Thursday,False,Premium
+ORD0166,2026-03-30,Nairobi CBD,Online,Product_21,Phones,3,79999,239997,2026-03,Monday,False,Premium
+ORD0182,2026-06-16,Mombasa,Online,Product_16,Tablets,1,49999,49999,2026-06,Tuesday,False,Premium
+ORD0209,2026-01-27,Nairobi CBD,Online,Product_18,Accessories,4,49999,199996,2026-01,Tuesday,False,Premium
+ORD0221,2026-01-06,Nairobi CBD,Online,Product_15,TVs,1,49999,49999,2026-01,Tuesday,False,Premium
+ORD0231,2026-03-02,Mombasa,Online,Product_18,Tablets,2,28999,57998,2026-03,Monday,False,Premium
+ORD0267,2026-03-26,Nairobi CBD,Online,Product_5,Accessories,2,28999,57998,2026-03,Thursday,False,Premium
+ORD0271,2026-03-24,Mombasa,Online,Product_9,TVs,2,79999,159998,2026-03,Tuesday,False,Premium
+ORD0275,2026-06-20,Nairobi CBD,Online,Product_21,Tablets,3,28999,86997,2026-06,Saturday,True,Premium
+ORD0281,2026-04-20,Nairobi CBD,Online,Product_17,Phones,3,28999,86997,2026-04,Monday,False,Premium
+ORD0300,2026-02-18,Nairobi CBD,Online,Product_30,Laptops,4,79999,319996,2026-02,Wednesday,False,Premium
+ORD0301,2026-01-11,Nairobi CBD,Online,Product_10,Phones,2,49999,99998,2026-01,Sunday,True,Premium
+ORD0306,2026-04-17,Mombasa,Online,Product_21,Laptops,4,34999,139996,2026-04,Friday,False,Premium
+ORD0309,2026-05-03,Mombasa,Online,Product_16,Phones,2,28999,57998,2026-05,Sunday,True,Premium
+ORD0319,2026-05-01,Nairobi CBD,Online,Product_8,Phones,4,28999,115996,2026-05,Friday,False,Premium
+ORD0323,2026-02-20,Mombasa,Online,Product_19,Laptops,1,79999,79999,2026-02,Friday,False,Premium
+ORD0337,2026-04-14,Mombasa,Online,Product_9,Laptops,3,49999,149997,2026-04,Tuesday,False,Premium
+ORD0370,2026-02-19,Mombasa,Online,Product_8,Laptops,3,79999,239997,2026-02,Thursday,False,Premium
+ORD0376,2026-01-15,Mombasa,Online,Product_24,Tablets,4,28999,115996,2026-01,Thursday,False,Premium
+ORD0381,2026-04-09,Nairobi CBD,Online,Product_4,Phones,4,49999,199996,2026-04,Thursday,False,Premium
+ORD0408,2026-05-15,Mombasa,Online,Product_2,Phones,3,34999,104997,2026-05,Friday,False,Premium
+ORD0422,2026-02-07,Nairobi CBD,Online,Product_6,Tablets,1,28999,28999,2026-02,Saturday,True,Premium
+ORD0435,2026-03-13,Nairobi CBD,Online,Product_2,Laptops,1,49999,49999,2026-03,Friday,False,Premium
+ORD0445,2026-01-22,Nairobi CBD,Online,Product_15,Phones,4,34999,139996,2026-01,Thursday,False,Premium
+ORD0463,2026-01-05,Nairobi CBD,Online,Product_16,Tablets,5,34999,174995,2026-01,Monday,False,Premium
+ORD0517,2026-03-25,Nairobi CBD,Online,Product_12,Laptops,4,34999,139996,2026-03,Wednesday,False,Premium
+ORD0529,2026-02-23,Mombasa,Online,Product_16,Laptops,2,34999,69998,2026-02,Monday,False,Premium
+ORD0552,2026-04-18,Mombasa,Online,Product_7,TVs,4,28999,115996,2026-04,Saturday,True,Premium
+ORD0557,2026-06-19,Mombasa,Online,Product_30,Phones,3,28999,86997,2026-06,Friday,False,Premium
+ORD0578,2026-04-05,Nairobi CBD,Online,Product_12,Accessories,3,34999,104997,2026-04,Sunday,True,Premium
+ORD0603,2026-03-27,Nairobi CBD,Online,Product_22,TVs,2,34999,69998,2026-03,Friday,False,Premium
+ORD0605,2026-06-07,Mombasa,Online,Product_7,Laptops,1,28999,28999,2026-06,Sunday,True,Premium
+ORD0632,2026-02-04,Nairobi CBD,Online,Product_25,Tablets,2,49999,99998,2026-02,Wednesday,False,Premium
+ORD0672,2026-03-14,Nairobi CBD,Online,Product_15,Accessories,2,28999,57998,2026-03,Saturday,True,Premium
+ORD0675,2026-06-26,Nairobi CBD,Online,Product_27,TVs,2,79999,159998,2026-06,Friday,False,Premium
+ORD0721,2026-04-11,Nairobi CBD,Online,Product_9,Accessories,3,79999,239997,2026-04,Saturday,True,Premium
+ORD0728,2026-05-22,Mombasa,Online,Product_3,Tablets,4,49999,199996,2026-05,Friday,False,Premium
+ORD0738,2026-06-29,Nairobi CBD,Online,Product_12,Accessories,1,79999,79999,2026-06,Monday,False,Premium
+ORD0763,2026-02-01,Nairobi CBD,Online,Product_12,Accessories,1,34999,34999,2026-02,Sunday,True,Premium
+ORD0799,2026-05-08,Mombasa,Online,Product_14,TVs,5,79999,399995,2026-05,Friday,False,Premium
+ORD0809,2026-04-10,Nairobi CBD,Online,Product_18,Accessories,5,28999,144995,2026-04,Friday,False,Premium
+ORD0830,2026-03-13,Mombasa,Online,Product_6,Tablets,3,79999,239997,2026-03,Friday,False,Premium
+ORD0850,2026-02-22,Mombasa,Online,Product_22,Phones,1,79999,79999,2026-02,Sunday,True,Premium
+ORD0851,2026-06-16,Nairobi CBD,Online,Product_22,Phones,1,34999,34999,2026-06,Tuesday,False,Premium
+ORD0888,2026-03-31,Nairobi CBD,Online,Product_23,TVs,3,79999,239997,2026-03,Tuesday,False,Premium
+ORD0891,2026-06-06,Nairobi CBD,Online,Product_11,Phones,2,34999,69998,2026-06,Saturday,True,Premium
+ORD0896,2026-02-09,Nairobi CBD,Online,Product_5,Phones,2,28999,57998,2026-02,Monday,False,Premium
+ORD0904,2026-01-17,Nairobi CBD,Online,Product_28,TVs,2,34999,69998,2026-01,Saturday,True,Premium
+ORD0912,2026-01-24,Nairobi CBD,Online,Product_7,Tablets,2,49999,99998,2026-01,Saturday,True,Premium
+ORD0950,2026-02-28,Mombasa,Online,Product_28,Tablets,4,79999,319996,2026-02,Saturday,True,Premium
+ORD0966,2026-02-02,Mombasa,Online,Product_12,TVs,2,28999,57998,2026-02,Monday,False,Premium

@@ -52,11 +52,11 @@ Restart the kernel before running each notebook to ensure reproducibility.
 
 ### Executive Summary
 
-- **Nairobi CBD** is the top-performing branch with the highest total revenue across all 5 branches, driven by a large share of Premium-tier orders averaging above KES 28,000 per unit.
-- The **3 best-selling products by units** are all in the Accessories and Phones categories, yet the **top 3 by revenue** are dominated by Laptops and TVs — reflecting that high-volume does not equal high-value.
-- **Weekend orders** (Saturday + Sunday) account for roughly **29 %** of all orders but generate a higher average order revenue than weekday orders, suggesting weekend shoppers skew toward Premium products.
-- **March 2026** is the single best revenue month, outperforming the worst month by more than **40 %**, pointing to a mid-quarter demand surge worth investigating for promotional causes.
-- **Premium Online orders from Nairobi and Mombasa** total **48 orders** with combined revenue exceeding **KES 2.1 million**, confirming that the coastal and capital digital channels are the highest-value customer segment.
+- **Kisumu** is the top-performing branch with total H1 revenue of **KES 19,331,848** — ahead of Nakuru (KES 17,397,414) — despite not being the busiest city, suggesting it carries a higher average order value per transaction.
+- **Product_21** leads both the revenue chart (**KES 4,499,351**) and the units-sold chart (**149 units**), but Product_15 ranks third by units while missing the revenue top-3 entirely, showing that volume and value rankings diverge for lower-priced items.
+- **Weekend orders** (Saturday + Sunday) represent **279 of 1,000 orders** (27.9 %) but carry an average revenue of **KES 84,510** — KES 4,409 more per order than weekdays — indicating weekend shoppers skew toward Premium products.
+- **March 2026** is the best revenue month at **KES 15,423,942**, while February is the worst at **KES 10,983,572** — a gap of **40.4 %** that the sales team should investigate for seasonal or campaign-driven causes.
+- **Premium Online orders from Nairobi CBD and Mombasa** total **60 orders** with combined revenue of **KES 8,095,834**, confirming that the coastal and capital digital channels are the highest-value customer segment.
 
 ---
 
