@@ -1,0 +1,14 @@
+# Raw generated CSVs — regenerate from generate_data.py
+duka_sales.csv
+agents.csv
+agent_transactions.csv
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
